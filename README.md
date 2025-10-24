@@ -39,7 +39,3 @@ This project contains a **String Calculator template** built using React. The pr
    npm test
    ```
 
-## Task for Candidates
-
-- Implement the functionality of the String Calculator following TDD best practices.
-- Resolve accessibility issues in the `App.tsx`.
